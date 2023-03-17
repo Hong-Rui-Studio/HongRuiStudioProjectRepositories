@@ -1,0 +1,6 @@
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\bin\Debug\HRGS.Entities.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\bin\Debug\HRGS.Entities.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.csproj.AssemblyReference.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.pdb

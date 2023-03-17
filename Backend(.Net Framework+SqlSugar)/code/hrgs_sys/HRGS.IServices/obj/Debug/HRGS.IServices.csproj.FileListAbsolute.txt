@@ -1,0 +1,9 @@
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.IServices.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.IServices.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.csproj.AssemblyReference.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.csproj.CoreCompileInputs.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.Dtos.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.Dtos.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.csproj.CopyComplete

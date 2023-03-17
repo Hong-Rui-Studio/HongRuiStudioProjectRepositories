@@ -1,0 +1,9 @@
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.IRepositories.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.IRepositories.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.csproj.AssemblyReference.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.Entities.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.Entities.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.csproj.CopyComplete

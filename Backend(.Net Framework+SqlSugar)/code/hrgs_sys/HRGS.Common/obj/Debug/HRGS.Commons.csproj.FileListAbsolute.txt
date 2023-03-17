@@ -1,0 +1,6 @@
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\bin\Debug\HRGS.Commons.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\bin\Debug\HRGS.Commons.pdb
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.csproj.AssemblyReference.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.dll
+C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.pdb
