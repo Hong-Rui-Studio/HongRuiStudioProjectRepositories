@@ -1,0 +1,118 @@
+﻿@model HRKJ.WebApp.Areas.Manager.Data.Copyright.CopyrightInfoViewModel
+@{
+    ViewBag.Title = "编辑版权信息";
+    Layout = "~/Areas/Manager/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="panel-heading">
+    <h3 class="panel-title">编辑版权信息</h3>
+    <p class="panel-subtitle"></p>
+</div>
+<div class="panel-body">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="panel">
+                <div class="panel-heading">
+                    <h3 class="panel-title">编辑版权信息</h3>
+                </div>
+                <div class="panel-body">
+                    @using (Html.BeginForm("AddOrEdit", "CopyrightsManager", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                        <div class="form-group">
+                            @Html.HiddenFor(c => c.Id)
+                        </div>
+                        <div class="form-group">
+                            <label for="Title">版权名称：</label>
+                            @Html.TextBoxFor(r => r.Title, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Title")</span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Phone">联系电话：</label>
+                            @Html.TextBoxFor(r => r.Phone, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Phone")</span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Tel">座机号码：</label>
+                            @Html.TextBoxFor(r => r.Tel, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Tel")</span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Address">联系地址：</label>
+                            @Html.TextBoxFor(c => c.Address, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Address")</span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="PhotoBase">版权图片：</label>
+                            <input type="file" name="PhotoBase" class="form-control" />
+                            <span class="text-danger">@Html.ValidationMessage("PhotoBase")</span>
+                            <div class="row">
+                                @if (!string.IsNullOrEmpty(Model.Photo))
+                                {
+                                    <div class="col-sm-4">
+                                        <img src="~/Contents/upload/copyrights/@Model.Photo" style="width:100px;height:100px;" />
+                                        
+                                    </div>
+                                    <div class="col-sm-4 col-sm-offset-1">
+                                        <img src="~/Contents/upload/copyrights/@Model.Images"  />
+                                    </div>
+                                 }
+                                </div>
+                        </div>
+
+                        
+
+                        <div class="form-group">
+                            <label for="LogoBase">Logo图片：</label>
+                            <input type="file" name="LogoBase" class="form-control" />
+                            <span class="text-danger">@Html.ValidationMessage("LogoBase")</span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <label for="Content">版权内容：</label>
+                            @Html.TextAreaFor(c => c.Content, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Content")</span>
+                            <div class="row">
+                                @if (!string.IsNullOrEmpty(Model.Logo))
+                                {
+                                    <div class="col-sm-4">
+                                        <img src="~/Contents/upload/copyrights/@Model.Logo" style="width:100px;height:100px;" />
+
+                                    </div>
+                                    <div class="col-sm-4 col-sm-offset-1">
+                                        <img src="~/Contents/upload/copyrights/@Model.SmallLogo"  />
+                                    </div>
+                                }
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Remark1">备注1：</label>
+                            @Html.TextAreaFor(c => c.Remark1, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Remark1")</span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Remark2">备注2：</label>
+                            @Html.TextAreaFor(c => c.Remark2, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Remark2")</span>
+                        </div>
+
+                        <div class="form-group">
+                            <button class="btn btn-success" type="submit">保存</button>
+                            <button class="btn btn-danger" type="reset">重置</button>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+

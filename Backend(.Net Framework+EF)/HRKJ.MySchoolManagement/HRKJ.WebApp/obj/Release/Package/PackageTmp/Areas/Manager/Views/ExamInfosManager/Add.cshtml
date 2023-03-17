@@ -1,0 +1,73 @@
+﻿@model HRKJ.WebApp.Areas.Manager.Data.ExamInfos.ExamInfosAddViewModel
+@{
+    ViewBag.Title = "新增考试信息";
+    Layout = "~/Areas/Manager/Views/Shared/_LayoutPage1.cshtml";
+    List<HRKJ.WebApp.Areas.Manager.Data.ExamInfos.ChooseSubjectsViewModel> list = ViewBag.SubjectsList == null 
+            ? new List<HRKJ.WebApp.Areas.Manager.Data.ExamInfos.ChooseSubjectsViewModel>() 
+            : ViewBag.SubjectsList;
+}
+@section Styles{
+    <style>
+        .examList {
+            display:inline-block;
+            width:300px;
+            height:30px;
+            line-height:30px;
+            text-align:left;
+        }
+
+    </style>
+        
+}
+<div class="panel-heading">
+    <h3 class="panel-title">新增考试信息</h3>
+    <p class="panel-subtitle"></p>
+</div>
+<div class="panel-body">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="panel">
+                <div class="panel-heading">
+                    <h3 class="panel-title">新增考试信息</h3>
+                </div>
+                <div class="panel-body">
+                    @using (Html.BeginForm("Add", "ExamInfosManager", FormMethod.Post))
+                    {
+                        <div class="form-group">
+                            <label for="Title">考试标题：</label>
+                            @Html.TextBoxFor(r => r.Title, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Title")</span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <label for="ExamDate">考试标题：</label>
+                            <input type="date" name="ExamDate" value="@Model.ExamDate.ToString("yyyy-MM-dd")" class="form-control" />
+                            <span class="text-danger">@Html.ValidationMessage("ExamDate")</span>
+                        </div>
+
+                        <div class="form-group">
+                           <label for="ExamDate">考试包含知识点：</label><br/>
+                           @for (var i = 0; i < list.Count; i++) 
+                           {
+                              <p class="examList">
+                                  <input type="checkbox" name="SubjectIdList" value="@list[i].Id" />&nbsp;&nbsp;
+                                  <span>@list[i].Title</span>
+                              </p>
+                            }
+
+                        </div>
+
+                        <div class="form-group">
+                            <button class="btn btn-success" type="submit">保存</button>
+                            <button class="btn btn-danger" type="reset">重置</button>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

@@ -1,0 +1,6 @@
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Dtos\bin\Release\HRKJ.Dtos.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Dtos\bin\Release\HRKJ.Dtos.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Dtos\obj\Release\HRKJ.Dtos.csproj.AssemblyReference.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Dtos\obj\Release\HRKJ.Dtos.csproj.CoreCompileInputs.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Dtos\obj\Release\HRKJ.Dtos.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Dtos\obj\Release\HRKJ.Dtos.pdb

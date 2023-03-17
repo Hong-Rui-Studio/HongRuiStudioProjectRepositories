@@ -1,0 +1,14 @@
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\bin\Debug\net6.0\Entity.deps.json
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\bin\Debug\net6.0\Entity.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\bin\Debug\net6.0\Entity.pdb
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\refint\Entity.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.pdb
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Entity\obj\Debug\net6.0\ref\Entity.dll

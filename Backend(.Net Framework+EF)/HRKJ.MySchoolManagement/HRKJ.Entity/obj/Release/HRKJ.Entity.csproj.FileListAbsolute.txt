@@ -1,0 +1,17 @@
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Release\HRKJ.Entity.dll.config
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Release\HRKJ.Entity.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Release\HRKJ.Entity.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Release\EntityFramework.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Release\EntityFramework.SqlServer.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Release\EntityFramework.xml
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Release\EntityFramework.SqlServer.xml
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.csproj.AssemblyReference.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.Migrations.initial.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.Migrations.changedatetime.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.Migrations.addPhoto.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.Migrations.ChangeDataBaseDesign.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.csproj.GenerateResource.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.csproj.CoreCompileInputs.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.csproj.CopyComplete
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Release\HRKJ.Entity.pdb

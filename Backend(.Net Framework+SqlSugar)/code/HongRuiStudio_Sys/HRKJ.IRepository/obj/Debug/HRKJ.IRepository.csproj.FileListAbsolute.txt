@@ -1,0 +1,9 @@
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\bin\Debug\HRKJ.IRepository.dll
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\bin\Debug\HRKJ.IRepository.pdb
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\bin\Debug\HRKJ.Entities.dll
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\bin\Debug\HRKJ.Entities.pdb
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\obj\Debug\HRKJ.IRepository.csproj.AssemblyReference.cache
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\obj\Debug\HRKJ.IRepository.csproj.CoreCompileInputs.cache
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\obj\Debug\HRKJ.IRepository.csproj.CopyComplete
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\obj\Debug\HRKJ.IRepository.dll
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.IRepository\obj\Debug\HRKJ.IRepository.pdb

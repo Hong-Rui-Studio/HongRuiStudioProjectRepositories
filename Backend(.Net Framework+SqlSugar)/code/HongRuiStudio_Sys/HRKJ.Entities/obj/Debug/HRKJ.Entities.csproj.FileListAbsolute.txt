@@ -1,0 +1,8 @@
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\bin\Debug\HRKJ.Entities.dll
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\bin\Debug\HRKJ.Entities.pdb
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\bin\Debug\SqlSugar.dll
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\obj\Debug\HRKJ.Entities.csproj.AssemblyReference.cache
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\obj\Debug\HRKJ.Entities.csproj.CoreCompileInputs.cache
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\obj\Debug\HRKJ.Entities.csproj.CopyComplete
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\obj\Debug\HRKJ.Entities.dll
+D:\Project\宏睿游戏工作室(.Net Framework SqlSugar后台)\code\HongRuiStudio_Sys\HRKJ.Entities\obj\Debug\HRKJ.Entities.pdb

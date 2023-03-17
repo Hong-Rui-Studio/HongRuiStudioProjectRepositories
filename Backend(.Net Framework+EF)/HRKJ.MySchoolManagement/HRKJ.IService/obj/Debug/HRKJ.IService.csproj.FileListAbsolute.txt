@@ -1,0 +1,45 @@
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.dll
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.pdb
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.dll
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.pdb
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.AssemblyReference.cache
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CoreCompileInputs.cache
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CopyComplete
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.dll
+D:\项目\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.pdb
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.dll
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.pdb
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.dll
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.pdb
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.AssemblyReference.cache
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CoreCompileInputs.cache
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CopyComplete
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.dll
+D:\Project\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.AssemblyReference.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CoreCompileInputs.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CopyComplete
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.pdb
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.dll
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.pdb
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.dll
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.pdb
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.AssemblyReference.cache
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CoreCompileInputs.cache
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CopyComplete
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.dll
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.pdb
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.dll
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.IService.pdb
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.dll
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\bin\Debug\HRKJ.Dtos.pdb
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.AssemblyReference.cache
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CoreCompileInputs.cache
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.csproj.CopyComplete
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.dll
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.IService\obj\Debug\HRKJ.IService.pdb

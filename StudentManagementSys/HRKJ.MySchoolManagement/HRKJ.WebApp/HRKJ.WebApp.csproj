@@ -1,0 +1,354 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2F737BD8-65D5-44F9-B615-65DA85EAD2FE}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HRKJ.WebApp</RootNamespace>
+    <AssemblyName>HRKJ.WebApp</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44303</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CodeCarvings.Piczard, Version=1.2.3.0, Culture=neutral, PublicKeyToken=88d00d4422733d60, processorArchitecture=MSIL">
+      <HintPath>..\packages\CodeCarvings.Piczard.1.2.3.3\lib\CodeCarvings.Piczard.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="PagedList.Mvc, Version=4.5.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.Mvc.4.5.0.0\lib\net40\PagedList.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.9\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.9\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.9\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.9\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.9\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.2.0.1\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.9\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contents\assets\css\bootstrap.css" />
+    <Content Include="Contents\assets\css\bootstrap.min.css" />
+    <Content Include="Contents\assets\css\demo.css" />
+    <Content Include="Contents\assets\css\main.css" />
+    <Content Include="Contents\assets\img\apple-icon.png" />
+    <Content Include="Contents\assets\img\favicon.png" />
+    <Content Include="Contents\assets\img\login-bg.jpg" />
+    <Content Include="Contents\assets\img\logo-dark.png" />
+    <Content Include="Contents\assets\img\profile-bg.png" />
+    <Content Include="Contents\assets\img\user-medium.png" />
+    <Content Include="Contents\assets\img\user.png" />
+    <Content Include="Contents\assets\img\user1.png" />
+    <Content Include="Contents\assets\img\user2.png" />
+    <Content Include="Contents\assets\img\user3.png" />
+    <Content Include="Contents\assets\img\user4.png" />
+    <Content Include="Contents\assets\img\user5.png" />
+    <Content Include="Contents\assets\scripts\GetAllMenus.js" />
+    <Content Include="Contents\assets\scripts\GetUsersInfo.js" />
+    <Content Include="Contents\assets\scripts\klorofil-common.js" />
+    <Content Include="Contents\assets\vendor\bootstrap\css\bootstrap-theme.css" />
+    <Content Include="Contents\assets\vendor\bootstrap\css\bootstrap-theme.min.css" />
+    <Content Include="Contents\assets\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="Contents\assets\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Contents\assets\vendor\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Contents\assets\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="Contents\assets\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Contents\assets\vendor\bootstrap\js\npm.js" />
+    <Content Include="Contents\assets\vendor\chartist\css\chartist-custom.css" />
+    <Content Include="Contents\assets\vendor\chartist\css\chartist.css" />
+    <Content Include="Contents\assets\vendor\chartist\css\chartist.min.css" />
+    <Content Include="Contents\assets\vendor\chartist\js\chartist.js" />
+    <Content Include="Contents\assets\vendor\chartist\js\chartist.min.js" />
+    <Content Include="Contents\assets\vendor\font-awesome\css\font-awesome.css" />
+    <Content Include="Contents\assets\vendor\font-awesome\css\font-awesome.min.css" />
+    <Content Include="Contents\assets\vendor\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Contents\assets\vendor\jquery-slimscroll\jquery.slimscroll.js" />
+    <Content Include="Contents\assets\vendor\jquery-slimscroll\jquery.slimscroll.min.js" />
+    <Content Include="Contents\assets\vendor\jquery.easy-pie-chart\angular.easypiechart.js" />
+    <Content Include="Contents\assets\vendor\jquery.easy-pie-chart\angular.easypiechart.min.js" />
+    <Content Include="Contents\assets\vendor\jquery.easy-pie-chart\easypiechart.js" />
+    <Content Include="Contents\assets\vendor\jquery.easy-pie-chart\easypiechart.min.js" />
+    <Content Include="Contents\assets\vendor\jquery.easy-pie-chart\jquery.easypiechart.js" />
+    <Content Include="Contents\assets\vendor\jquery.easy-pie-chart\jquery.easypiechart.min.js" />
+    <Content Include="Contents\assets\vendor\jquery\jquery.js" />
+    <Content Include="Contents\assets\vendor\jquery\jquery.min.js" />
+    <Content Include="Contents\assets\vendor\linearicons\fonts\Linearicons-Free.svg" />
+    <Content Include="Contents\assets\vendor\linearicons\style.css" />
+    <Content Include="Contents\assets\vendor\toastr\toastr.css" />
+    <Content Include="Contents\assets\vendor\toastr\toastr.js" />
+    <Content Include="Contents\assets\vendor\toastr\toastr.min.css" />
+    <Content Include="Contents\assets\vendor\toastr\toastr.min.js" />
+    <Content Include="Contents\upload\users\default.jpeg" />
+    <Content Include="Contents\upload\users\default.png" />
+    <Content Include="Content\PagedList.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\Md5Helper.cs" />
+    <Compile Include="App_Start\PageConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Manager\Controllers\ClassesManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\ExamInfosManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\ExamResultsManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\GradesManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\LoginManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\RolesManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\StudentsManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\SubjectsManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\SystemMenusManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\UsersManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\UsersPermissionManagerController.cs" />
+    <Compile Include="Areas\Manager\Controllers\WelcomeManagerController.cs" />
+    <Compile Include="Areas\Manager\Data\Classes\ClassesAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Classes\ClassesEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Classes\ClassesListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\ExamInfos\ChooseSubjectsViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\ExamInfos\ExamInfosAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\ExamInfos\ExamInfosEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\ExamInfos\ExamInfosListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\ExamResults\ExamResultsListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\ExamResults\ResultsAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Grades\GradesAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Grades\GradesEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Grades\GradesListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Login\LeftMenuListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Login\LoginViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Login\UsersInfoViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Roles\RolesAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Roles\RolesEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Roles\RolesListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Students\StudentsAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Students\StudentsEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Students\StudentsListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Subjects\SubjectsAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Subjects\SubjectsEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Subjects\SubjectsListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\SystemMenus\SystemMenusAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\SystemMenus\SystemMenusEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\SystemMenus\SystemMenusListViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\UsersPermission\AddUsersPermissionViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\UsersPermission\DeleteUsersPermissionViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Users\UsersAddViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Users\UsersChangePwdViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Users\UsersEditViewModel.cs" />
+    <Compile Include="Areas\Manager\Data\Users\UsersListViewModel.cs" />
+    <Compile Include="Areas\Manager\Filters\AdminAuthorizeAttribute.cs" />
+    <Compile Include="Areas\Manager\ManagerAreaRegistration.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="Contents\assets\css\demo.css.map" />
+    <Content Include="Contents\assets\css\main.css.map" />
+    <Content Include="Contents\assets\vendor\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Contents\assets\vendor\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Contents\assets\vendor\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Contents\assets\vendor\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Contents\assets\vendor\chartist\css\chartist-custom.css.map" />
+    <Content Include="Contents\assets\vendor\chartist\map\chartist.css.map" />
+    <Content Include="Contents\assets\vendor\chartist\map\chartist.min.js.map" />
+    <Content Include="Contents\assets\vendor\chartist\scss\chartist.scss" />
+    <Content Include="Contents\assets\vendor\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Contents\assets\vendor\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Contents\assets\vendor\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Contents\assets\vendor\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Contents\assets\vendor\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Contents\assets\vendor\jquery\jquery.min.map" />
+    <Content Include="Contents\assets\vendor\linearicons\fonts\Linearicons-Free.eot" />
+    <Content Include="Contents\assets\vendor\linearicons\fonts\Linearicons-Free.ttf" />
+    <Content Include="Contents\assets\vendor\linearicons\fonts\Linearicons-Free.woff" />
+    <Content Include="Contents\assets\vendor\linearicons\fonts\Linearicons-Free.woff2" />
+    <Content Include="Areas\Manager\Views\web.config" />
+    <Content Include="Areas\Manager\Views\Shared\_LayoutPage1.cshtml" />
+    <Content Include="Areas\Manager\Views\RolesManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\RolesManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\RolesManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\UsersManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\UsersManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\UsersManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\SystemMenusManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\SystemMenusManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\SystemMenusManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\LoginManager\SignIn.cshtml" />
+    <Content Include="Areas\Manager\Views\UsersPermissionManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\GradesManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\GradesManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\GradesManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\ClassesManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\ClassesManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\ClassesManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\SubjectsManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\SubjectsManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\SubjectsManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\StudentsManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\StudentsManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\StudentsManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\ExamInfosManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\ExamInfosManager\Add.cshtml" />
+    <Content Include="Areas\Manager\Views\ExamInfosManager\Edit.cshtml" />
+    <Content Include="Areas\Manager\Views\ExamResultsManager\ResultList.cshtml" />
+    <Content Include="Areas\Manager\Views\ExamResultsManager\List.cshtml" />
+    <Content Include="Areas\Manager\Views\WelcomeManager\List.cshtml" />
+    <None Include="packages.config" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HRKJ.Dtos\HRKJ.Dtos.csproj">
+      <Project>{a008c17f-f23f-4aac-9f31-7ae8189f5bf3}</Project>
+      <Name>HRKJ.Dtos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRKJ.Entity\HRKJ.Entity.csproj">
+      <Project>{01b79b3b-9d16-4505-8f35-eb1679233cfe}</Project>
+      <Name>HRKJ.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRKJ.IRepository\HRKJ.IRepository.csproj">
+      <Project>{e2414f2b-328a-4f41-b3cf-a3f4845fe319}</Project>
+      <Name>HRKJ.IRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRKJ.IService\HRKJ.IService.csproj">
+      <Project>{44a35bd5-c917-4e20-9a9f-761e5e24d8a2}</Project>
+      <Name>HRKJ.IService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRKJ.Repository\HRKJ.Repository.csproj">
+      <Project>{f0aa9eec-7c14-436b-9c74-8bd633e58f45}</Project>
+      <Name>HRKJ.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRKJ.Service\HRKJ.Service.csproj">
+      <Project>{68f95b52-2ab9-4e55-adcc-8242e0b94df3}</Project>
+      <Name>HRKJ.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>7703</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44303/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,12 @@
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\bin\Debug\net6.0\Commons.deps.json
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\bin\Debug\net6.0\Commons.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\bin\Debug\net6.0\Commons.pdb
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\Commons.csproj.AssemblyReference.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\Commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\Commons.AssemblyInfoInputs.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\Commons.AssemblyInfo.cs
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\Commons.csproj.CoreCompileInputs.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\Commons.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\refint\Commons.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\Commons.pdb
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\Commons\obj\Debug\net6.0\ref\Commons.dll

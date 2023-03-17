@@ -1,0 +1,12 @@
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\bin\Debug\net6.0\IServices.deps.json
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\bin\Debug\net6.0\IServices.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\bin\Debug\net6.0\IServices.pdb
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\IServices.csproj.AssemblyReference.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\IServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\IServices.AssemblyInfoInputs.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\IServices.AssemblyInfo.cs
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\IServices.csproj.CoreCompileInputs.cache
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\IServices.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\refint\IServices.dll
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\IServices.pdb
+D:\Project\重构(GitHub)\圣际宏原\code\sjhy\IServices\obj\Debug\net6.0\ref\IServices.dll

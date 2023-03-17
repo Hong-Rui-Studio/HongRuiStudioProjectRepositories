@@ -1,0 +1,78 @@
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll.config
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.pdb
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.dll
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.xml
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.AssemblyReference.cache
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CoreCompileInputs.cache
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CopyComplete
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.dll
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.pdb
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.initial.resources
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.GenerateResource.cache
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.changedatetime.resources
+D:\项目\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.addPhoto.resources
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll.config
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.pdb
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.dll
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.xml
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.AssemblyReference.cache
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.initial.resources
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.changedatetime.resources
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.addPhoto.resources
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.GenerateResource.cache
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CoreCompileInputs.cache
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CopyComplete
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.dll
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.pdb
+D:\Project\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.ChangeDataBaseDesign.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll.config
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.xml
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.AssemblyReference.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.initial.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.changedatetime.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.addPhoto.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.ChangeDataBaseDesign.resources
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.GenerateResource.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CoreCompileInputs.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CopyComplete
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.pdb
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll.config
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.pdb
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.dll
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.xml
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.AssemblyReference.cache
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CoreCompileInputs.cache
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CopyComplete
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.dll
+C:\Users\feng2\Desktop\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.pdb
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll.config
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.dll
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\HRKJ.Entity.pdb
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.dll
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.xml
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.AssemblyReference.cache
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CoreCompileInputs.cache
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.CopyComplete
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.dll
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.pdb
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.init.resources
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.csproj.GenerateResource.cache
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.changeFriendLinkInfo.resources
+D:\Project\宏睿游戏工作室(.Net Framework后台)\HRKJ.MySchoolManagement\HRKJ.Entity\obj\Debug\HRKJ.Entity.Migrations.changeFriendLinkInfo1.resources

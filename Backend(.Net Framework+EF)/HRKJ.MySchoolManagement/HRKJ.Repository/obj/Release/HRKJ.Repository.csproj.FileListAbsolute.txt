@@ -1,0 +1,16 @@
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\HRKJ.Repository.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\HRKJ.Repository.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\EntityFramework.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\HRKJ.Entity.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\HRKJ.IRepository.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\HRKJ.Entity.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\HRKJ.Entity.dll.config
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\HRKJ.IRepository.pdb
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\EntityFramework.xml
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\obj\Release\HRKJ.Repository.csproj.AssemblyReference.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\obj\Release\HRKJ.Repository.csproj.CoreCompileInputs.cache
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\obj\Release\HRKJ.Repository.csproj.CopyComplete
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\obj\Release\HRKJ.Repository.dll
+D:\Project\宏睿学生管理系统\HRKJ.MySchoolManagement\HRKJ.Repository\obj\Release\HRKJ.Repository.pdb
