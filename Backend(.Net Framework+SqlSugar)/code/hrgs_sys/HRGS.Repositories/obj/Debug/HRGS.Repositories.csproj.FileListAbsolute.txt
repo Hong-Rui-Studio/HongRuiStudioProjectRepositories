@@ -10,3 +10,15 @@ C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Repositories\bin\Debug\SqlSugar.dll
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.Entities.pdb
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.IRepositories.pdb
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Repositories\obj\Debug\HRGS.Repositories.csproj.CopyComplete
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.Repositories.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.Repositories.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.Entities.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.IRepositories.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\bin\Debug\SqlSugar.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.Entities.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\bin\Debug\HRGS.IRepositories.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\obj\Debug\HRGS.Repositories.csproj.AssemblyReference.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\obj\Debug\HRGS.Repositories.csproj.CoreCompileInputs.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\obj\Debug\HRGS.Repositories.csproj.CopyComplete
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\obj\Debug\HRGS.Repositories.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Repositories\obj\Debug\HRGS.Repositories.pdb

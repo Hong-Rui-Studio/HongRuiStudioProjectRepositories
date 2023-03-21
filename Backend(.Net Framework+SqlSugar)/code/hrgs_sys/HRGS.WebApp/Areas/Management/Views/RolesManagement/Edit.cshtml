@@ -1,0 +1,43 @@
+﻿@model HRGS.WebApp.Areas.Management.Data.Roles.RolesEditViewModel
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Management/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="panel-heading">
+    <h3 class="panel-title">编辑角色信息</h3>
+    <p class="panel-subtitle"></p>
+</div>
+<div class="panel-body">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="panel">
+                <div class="panel-heading">
+                    <h3 class="panel-title">编辑角色信息</h3>
+                </div>
+                <div class="panel-body">
+                    @using (Html.BeginForm("Edit", "RolesManagement", FormMethod.Post))
+                    {
+                        <div class="form-group">
+                            <label for="Id">角色编号：</label>
+                            @Html.TextBoxFor(r => r.Id, new { @class = "form-control", @readonly = "true" })
+                            <span class="text-danger">@Html.ValidationMessage("Id")</span>
+                        </div>
+                        <div class="form-group">
+                            <label for="Title">角色名称：</label>
+                            @Html.TextBoxFor(r => r.Title, new { @class = "form-control" })
+                            <span class="text-danger">@Html.ValidationMessage("Title")</span>
+                        </div>
+
+                        <div class="form-group">
+                            <button class="btn btn-success" type="submit">保存</button>
+                            <button class="btn btn-danger" type="reset">重置</button>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

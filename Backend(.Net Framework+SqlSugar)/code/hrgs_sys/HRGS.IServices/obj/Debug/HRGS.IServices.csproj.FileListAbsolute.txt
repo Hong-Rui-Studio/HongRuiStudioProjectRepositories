@@ -7,3 +7,12 @@ C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.pdb
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.Dtos.dll
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.Dtos.pdb
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.csproj.CopyComplete
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.IServices.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.IServices.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.Dtos.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\bin\Debug\HRGS.Dtos.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.csproj.AssemblyReference.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.csproj.CoreCompileInputs.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.csproj.CopyComplete
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IServices\obj\Debug\HRGS.IServices.pdb

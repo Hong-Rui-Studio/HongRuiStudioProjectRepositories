@@ -4,3 +4,9 @@ C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.csproj
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.csproj.CoreCompileInputs.cache
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.dll
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Entities\bin\Debug\HRGS.Entities.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Entities\bin\Debug\HRGS.Entities.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.csproj.AssemblyReference.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.csproj.CoreCompileInputs.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Entities\obj\Debug\HRGS.Entities.pdb

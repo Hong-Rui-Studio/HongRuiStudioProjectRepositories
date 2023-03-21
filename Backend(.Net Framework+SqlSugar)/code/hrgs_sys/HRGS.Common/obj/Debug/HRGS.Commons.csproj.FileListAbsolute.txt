@@ -4,3 +4,9 @@ C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.csproj.As
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.csproj.CoreCompileInputs.cache
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.dll
 C:\Users\Darcforst\Desktop\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Common\bin\Debug\HRGS.Commons.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Common\bin\Debug\HRGS.Commons.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.csproj.AssemblyReference.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.csproj.CoreCompileInputs.cache
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.Common\obj\Debug\HRGS.Commons.pdb
