@@ -65,42 +65,168 @@ namespace HRGS.Services
 
         public AdminsDto GetAdminsById(Guid id)
         {
-            throw new NotImplementedException();
+            var data = _adminsRepo.Query(id);
+            return data == null ? null : new AdminsDto 
+            {
+                Id  = data.Id,
+                NickName = data.NickName,
+                BornDate = data.BornDate,
+                Gender = data.Gender,
+                Email = data.Email,
+                Tel = data.Tel,
+                Photo = data.Photo,
+                Images = data.Images,
+                WeChat = data.WeChat,
+                RolesId= data.RolesId,
+                Address = data.Address,
+                UpdateTime = data.UpdateTime
+            };
         }
 
-        public Task<AdminsDto> GetAdminsByIdAsync(Guid id)
+        public async Task<AdminsDto> GetAdminsByIdAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var data = await _adminsRepo.QueryAsync(id);
+            return data == null ? null : new AdminsDto
+            {
+                Id = data.Id,
+                NickName = data.NickName,
+                BornDate = data.BornDate,
+                Gender = data.Gender,
+                Email = data.Email,
+                Tel = data.Tel,
+                Photo = data.Photo,
+                Images = data.Images,
+                WeChat = data.WeChat,
+                RolesId = data.RolesId,
+                Address = data.Address,
+                UpdateTime = data.UpdateTime
+            };
         }
 
         public List<AdminsDto> GetAdminsByNickName(string nickname)
         {
-            throw new NotImplementedException();
+            var data = _adminsRepo.Query(a => a.NickName.Contains(nickname));
+            return data == null || data.Count <= 0 ? new List<AdminsDto>()
+                    : data.Select(a => new AdminsDto 
+                    {
+                        Id = a.Id,
+                        NickName = a.NickName,
+                        BornDate = a.BornDate,
+                        Gender = a.Gender,
+                        Email = a.Email,
+                        Tel = a.Tel,
+                        Photo = a.Photo,
+                        Images = a.Images,
+                        WeChat = a.WeChat,
+                        RolesId = a.RolesId,
+                        Address = a.Address,
+                        UpdateTime = a.UpdateTime
+                    }).ToList();
         }
 
-        public Task<List<AdminsDto>> GetAdminsByNickNameAsync(string nickname)
+        public async Task<List<AdminsDto>> GetAdminsByNickNameAsync(string nickname)
         {
-            throw new NotImplementedException();
+            var data =await _adminsRepo.QueryAsync(a => a.NickName.Contains(nickname));
+            return data == null || data.Count <= 0 ? new List<AdminsDto>()
+                    : data.Select(a => new AdminsDto
+                    {
+                        Id = a.Id,
+                        NickName = a.NickName,
+                        BornDate = a.BornDate,
+                        Gender = a.Gender,
+                        Email = a.Email,
+                        Tel = a.Tel,
+                        Photo = a.Photo,
+                        Images = a.Images,
+                        WeChat = a.WeChat,
+                        RolesId = a.RolesId,
+                        Address = a.Address,
+                        UpdateTime = a.UpdateTime
+                    }).ToList();
         }
 
         public List<AdminsDto> GetAdminsByRolesId(Guid rolesId)
         {
-            throw new NotImplementedException();
+            var data = _adminsRepo.Query(a => a.RolesId == rolesId);
+            return data == null || data.Count <= 0 ? new List<AdminsDto>()
+                    : data.Select(a => new AdminsDto
+                    {
+                        Id = a.Id,
+                        NickName = a.NickName,
+                        BornDate = a.BornDate,
+                        Gender = a.Gender,
+                        Email = a.Email,
+                        Tel = a.Tel,
+                        Photo = a.Photo,
+                        Images = a.Images,
+                        WeChat = a.WeChat,
+                        RolesId = a.RolesId,
+                        Address = a.Address,
+                        UpdateTime = a.UpdateTime
+                    }).ToList();
         }
 
-        public Task<List<AdminsDto>> GetAdminsByRolesIdAsync(Guid rolesId)
+        public async Task<List<AdminsDto>> GetAdminsByRolesIdAsync(Guid rolesId)
         {
-            throw new NotImplementedException();
+            var data =await _adminsRepo.QueryAsync(a => a.RolesId == rolesId);
+            return data == null || data.Count <= 0 ? new List<AdminsDto>()
+                    : data.Select(a => new AdminsDto
+                    {
+                        Id = a.Id,
+                        NickName = a.NickName,
+                        BornDate = a.BornDate,
+                        Gender = a.Gender,
+                        Email = a.Email,
+                        Tel = a.Tel,
+                        Photo = a.Photo,
+                        Images = a.Images,
+                        WeChat = a.WeChat,
+                        RolesId = a.RolesId,
+                        Address = a.Address,
+                        UpdateTime = a.UpdateTime
+                    }).ToList();
         }
 
         public List<AdminsDto> GetAll()
         {
-            throw new NotImplementedException();
+            var data = _adminsRepo.Query();
+            return data == null || data.Count <= 0 ? new List<AdminsDto>()
+                    : data.Select(a => new AdminsDto
+                    {
+                        Id = a.Id,
+                        NickName = a.NickName,
+                        BornDate = a.BornDate,
+                        Gender = a.Gender,
+                        Email = a.Email,
+                        Tel = a.Tel,
+                        Photo = a.Photo,
+                        Images = a.Images,
+                        WeChat = a.WeChat,
+                        RolesId = a.RolesId,
+                        Address = a.Address,
+                        UpdateTime = a.UpdateTime
+                    }).ToList();
         }
 
-        public Task<List<AdminsDto>> GetAllAdmins()
+        public async Task<List<AdminsDto>> GetAllAdmins()
         {
-            throw new NotImplementedException();
+            var data =await  _adminsRepo.QueryAsync();
+            return data == null || data.Count <= 0 ? new List<AdminsDto>()
+                    : data.Select(a => new AdminsDto
+                    {
+                        Id = a.Id,
+                        NickName = a.NickName,
+                        BornDate = a.BornDate,
+                        Gender = a.Gender,
+                        Email = a.Email,
+                        Tel = a.Tel,
+                        Photo = a.Photo,
+                        Images = a.Images,
+                        WeChat = a.WeChat,
+                        RolesId = a.RolesId,
+                        Address = a.Address,
+                        UpdateTime = a.UpdateTime
+                    }).ToList();
         }
     }
 }

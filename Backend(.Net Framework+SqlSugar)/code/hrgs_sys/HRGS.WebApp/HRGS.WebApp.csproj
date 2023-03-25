@@ -48,6 +48,9 @@
     <Reference Include="Autofac.Integration.Mvc, Version=6.1.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
       <HintPath>..\packages\Autofac.Mvc5.6.1.0\lib\net472\Autofac.Integration.Mvc.dll</HintPath>
     </Reference>
+    <Reference Include="CodeCarvings.Piczard">
+      <HintPath>..\..\..\..\Backend(.Net Framework+EF)\HRKJ.MySchoolManagement\HRKJ.WebApp\bin\CodeCarvings.Piczard.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.1.1.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
     </Reference>
@@ -154,7 +157,9 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Management\Controllers\AdminsManagementController.cs" />
     <Compile Include="Areas\Management\Controllers\RolesManagementController.cs" />
+    <Compile Include="Areas\Management\Data\Admins\AdminsListViewModel.cs" />
     <Compile Include="Areas\Management\Data\Roles\RolesAddViewModel.cs" />
     <Compile Include="Areas\Management\Data\Roles\RolesEditViewModel.cs" />
     <Compile Include="Areas\Management\Data\Roles\RolesListViewModel.cs" />
@@ -251,6 +256,7 @@
     <Content Include="Areas\Management\Views\RolesManagement\List.cshtml" />
     <Content Include="Areas\Management\Views\RolesManagement\Add.cshtml" />
     <Content Include="Areas\Management\Views\RolesManagement\Edit.cshtml" />
+    <Content Include="Areas\Management\Views\AdminsManagement\List.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -280,6 +286,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Upload\admins\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

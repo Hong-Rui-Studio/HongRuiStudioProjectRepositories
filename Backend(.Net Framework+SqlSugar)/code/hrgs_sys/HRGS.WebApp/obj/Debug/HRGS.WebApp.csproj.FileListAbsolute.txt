@@ -220,3 +220,5 @@ D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Fr
 D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.WebApp\obj\Debug\HRGS.WebApp.csproj.CopyComplete
 D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.WebApp\obj\Debug\HRGS.WebApp.dll
 D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.WebApp\obj\Debug\HRGS.WebApp.pdb
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.WebApp\bin\CodeCarvings.Piczard.dll
+D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.WebApp\bin\CodeCarvings.Piczard.xml

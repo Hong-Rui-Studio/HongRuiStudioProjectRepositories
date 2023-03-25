@@ -16,7 +16,7 @@ namespace HRGS.Dtos
         public string Images { get; set; }
         public string Address { get; set; }
         public string WeChat { get; set; }
-        public string RolesId { get; set; }
+        public Guid RolesId { get; set; }
         public DateTime CreateTime { get; set; }
         public DateTime UpdateTime { get; set; }
 
