@@ -5,5 +5,6 @@ namespace HRGS.Repositories
 {
     public class AdminsRepository : BaseRepository<Admins> , IAdminsRepository
     {
+      
     }
 }
