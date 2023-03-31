@@ -159,6 +159,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\Management\Controllers\AdminsManagementController.cs" />
     <Compile Include="Areas\Management\Controllers\RolesManagementController.cs" />
+    <Compile Include="Areas\Management\Data\Admins\AdminsAddViewModel.cs" />
     <Compile Include="Areas\Management\Data\Admins\AdminsListViewModel.cs" />
     <Compile Include="Areas\Management\Data\Roles\RolesAddViewModel.cs" />
     <Compile Include="Areas\Management\Data\Roles\RolesEditViewModel.cs" />
@@ -257,6 +258,7 @@
     <Content Include="Areas\Management\Views\RolesManagement\Add.cshtml" />
     <Content Include="Areas\Management\Views\RolesManagement\Edit.cshtml" />
     <Content Include="Areas\Management\Views\AdminsManagement\List.cshtml" />
+    <Content Include="Areas\Management\Views\AdminsManagement\Add.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />

@@ -52,6 +52,29 @@ namespace HRGS.WebApp.Areas.Management.Controllers
             return View(pages);
         }
 
+        [HttpGet]
+        public async Task<ActionResult> Add()
+        {
+            await BindRoles(Guid.Empty);
+            return View(new AdminsAddViewModel());
+        }
+
+
+        private async Task BindRoles(Guid id) 
+        {
+            SelectList sl = null;
+            var data = await _rolesSvc.GetAllRolesAsync();
+            if (id == Guid.Empty)
+            {
+                sl = new SelectList(data, "Id", "RolesTitle");
+            }
+            else 
+            {
+                sl = new SelectList(data, "Id", "RolesTitle",id);
+            }
+            ViewBag.RolesList = sl;
+        }
+
 
         private string GetRolesTitle(Guid id) 
         {
