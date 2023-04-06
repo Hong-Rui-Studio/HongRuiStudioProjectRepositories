@@ -51,12 +51,12 @@
                             @for (var i = 0; i < Model.Count; i++)
                             {
                                 <tr>
-                                    <td>@Model[i].RolesNo</td>
+                                    <td>@(i+1)</td>
                                     <td>@Model[i].Title</td>
                                     <td>@Model[i].UpdateTime</td>
                                     <td>
                                         <form action="Delete" method="post" onsubmit="return confirm('确定删除么?')">
-                                            @Html.ActionLink("修改", "Edit", "RolesManager", new { Model[i].Id }, new { @class = "btn btn-warning" })
+                                            @Html.ActionLink("修改", "Edit", "RolesManagement", new { Model[i].Id }, new { @class = "btn btn-warning" })
                                             @Html.Hidden("Id", Model[i].Id)
 
                                             <button class="btn btn-danger">删除</button>

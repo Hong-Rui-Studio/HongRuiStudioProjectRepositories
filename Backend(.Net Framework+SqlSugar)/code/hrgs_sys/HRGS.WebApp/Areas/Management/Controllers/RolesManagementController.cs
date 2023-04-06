@@ -32,7 +32,6 @@ namespace HRGS.WebApp.Areas.Management.Controllers
                 dataList.Add(new RolesListViewModel
                 {
                     Id = list[i].Id,
-                    RolesNo = dataNum,
                     Title = list[i].RolesTitle,
                     UpdateTime = list[i].UpdateTime.ToString("yyyy-MM-dd HH:mm:ss")
 

@@ -9,9 +9,6 @@ namespace HRGS.WebApp.Areas.Management.Data.Admins
     {
 
         public Guid Id { get; set; }
-
-        public int OrderNum { get; set; }
-
         public string NickName { get; set; }
         public string BornDate { get; set; }
 

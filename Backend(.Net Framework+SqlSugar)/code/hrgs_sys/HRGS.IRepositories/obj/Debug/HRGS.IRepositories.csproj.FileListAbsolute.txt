@@ -16,3 +16,12 @@ D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Fr
 D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.csproj.CopyComplete
 D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.dll
 D:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.pdb
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.IRepositories.dll
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.IRepositories.pdb
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.Entities.dll
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\bin\Debug\HRGS.Entities.pdb
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.csproj.AssemblyReference.cache
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.csproj.CoreCompileInputs.cache
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.csproj.CopyComplete
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.dll
+E:\Hong Rui Game Studio Project\HongRuiStudioProjectRepositories\Backend(.Net Framework+SqlSugar)\code\hrgs_sys\HRGS.IRepositories\obj\Debug\HRGS.IRepositories.pdb

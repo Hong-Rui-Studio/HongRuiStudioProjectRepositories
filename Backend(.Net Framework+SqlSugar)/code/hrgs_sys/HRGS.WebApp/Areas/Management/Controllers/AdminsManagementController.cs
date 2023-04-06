@@ -33,7 +33,6 @@ namespace HRGS.WebApp.Areas.Management.Controllers
                 AdminsListViewModel al = new AdminsListViewModel 
                 {
                     Id = list[i].Id,
-                    OrderNum = count,
                     NickName = list[i].NickName,
                     BornDate = list[i].BornDate.ToString("yyyy-MM-dd"),
                     Gender  = list[i].Gender == 1 ? "男":"女",

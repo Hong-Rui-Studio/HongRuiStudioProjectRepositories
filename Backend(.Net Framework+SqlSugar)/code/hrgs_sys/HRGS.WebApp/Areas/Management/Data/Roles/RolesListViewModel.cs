@@ -8,7 +8,6 @@ namespace HRGS.WebApp.Areas.Management.Data.Roles
     public class RolesListViewModel
     {
         public Guid Id { get; set; }
-        public int RolesNo { get; set; }
 
         public string Title { get; set; }
 
